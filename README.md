@@ -1,3 +1,4 @@
 # Algorithm
 
-백준 + SWEA
+- 백준
+- SWEA
