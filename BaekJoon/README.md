@@ -1,4 +1,5 @@
-## 푼 문제들
+## 백준 푼 문제들
+> https://www.acmicpc.net/
 
 - BOJ_11656_접미사배열.java
 - BOJ_12865_평범한배낭.java
