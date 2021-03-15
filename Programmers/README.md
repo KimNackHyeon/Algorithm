@@ -28,6 +28,9 @@
 2. PG_level2_완전탐색_소수찾기
 3. PG_level2_완전탐색_카펫
 
+### < 동적계획법(Dynamic Programming) >
+1. PG_level3_DP_N으로표현
+
 ### < 2018 Kakao 코딩테스트 >
 1. PG_level1_2018카카오_비밀지도
 2. PG_level1_2018카카오_다트게임
