@@ -31,6 +31,7 @@
 ### < 동적계획법(Dynamic Programming) >
 1. PG_level3_DP_N으로표현
 2. PG_level3_DP_정수삼각형
+3. PG_level3_DP_등굣길
 
 ### < 2018 Kakao 코딩테스트 >
 1. PG_level1_2018카카오_비밀지도
