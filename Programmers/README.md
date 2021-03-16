@@ -33,6 +33,9 @@
 2. PG_level3_DP_정수삼각형
 3. PG_level3_DP_등굣길
 
+### < DFS/BFS >
+1. PG_level2_DFS_BFS_타겟넘버
+
 ### < 2018 Kakao 코딩테스트 >
 1. PG_level1_2018카카오_비밀지도
 2. PG_level1_2018카카오_다트게임
