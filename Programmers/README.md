@@ -37,6 +37,10 @@
 1. PG_level2_DFS_BFS_타겟넘버
 2. PG_level3_DFS_BFS_네트워크
 
+### < 연습문제 > 
+1. PG_level1_연습문제_2016
+2. PG_level2_연습문제_124나라의숫자
+
 ### < 2018 Kakao 코딩테스트 >
 1. PG_level1_2018카카오_비밀지도
 2. PG_level1_2018카카오_다트게임
