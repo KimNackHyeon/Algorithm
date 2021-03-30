@@ -37,6 +37,9 @@
 1. PG_level2_DFS_BFS_타겟넘버
 2. PG_level3_DFS_BFS_네트워크
 
+### < 그리디 >
+1. PG_level1_Greedy_체육복
+
 ### < 연습문제 > 
 1. PG_level1_연습문제_2016
 2. PG_level2_연습문제_124나라의숫자
