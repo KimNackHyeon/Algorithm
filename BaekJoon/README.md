@@ -17,3 +17,6 @@
 - Baekjoon_4963_섬의개수.java
 - Baekjoon_7562_나이트의이동.java
 - Baekjoon_7576_토마토.java
+
+## 삼성 역량테스트 기출
+- BOJ_14499_주사위굴리기
