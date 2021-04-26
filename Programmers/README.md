@@ -39,6 +39,7 @@
 
 ### < 그리디 >
 1. PG_level1_Greedy_체육복
+2. PG_level2_Greedy_큰수만들기
 
 ### < 연습문제 > 
 1. PG_level1_연습문제_2016
