@@ -36,6 +36,7 @@
 ### < DFS/BFS >
 1. PG_level2_DFS_BFS_타겟넘버
 2. PG_level3_DFS_BFS_네트워크
+3. PG_level3_DFS_BFS_단어변환
 
 ### < 그리디 >
 1. PG_level1_Greedy_체육복
@@ -48,6 +49,9 @@
 4. PG_level2_연습문제_땅따먹기
 5. PG_level2_최대값과최솟값
 6. PG_level2_스킬트리
+7. PG_level2_숫자의표현
+8. PG_level2_피보나치수 
+9. PG_level3_2xn타일링
 
 ### < 2017 Kakao 코딩테스트 >
 1. PG_level2_2017카카오_단체사진찍기
