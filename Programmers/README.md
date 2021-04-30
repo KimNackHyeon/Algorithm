@@ -51,7 +51,9 @@
 6. PG_level2_스킬트리
 7. PG_level2_숫자의표현
 8. PG_level2_피보나치수 
-9. PG_level3_2xn타일링
+9. PG_level2_최솟값만들기
+10. PG_level2_행렬의곱셈
+11. PG_level3_2xn타일링
 
 ### < 2017 Kakao 코딩테스트 >
 1. PG_level2_2017카카오_단체사진찍기
