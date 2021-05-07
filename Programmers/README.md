@@ -41,6 +41,7 @@
 ### < 그리디 >
 1. PG_level1_Greedy_체육복
 2. PG_level2_Greedy_큰수만들기
+3. PG_level3_Greedy_단속카메라
 
 ### < 연습문제 > 
 1. PG_level1_연습문제_2016
@@ -56,7 +57,8 @@
 11. PG_level2_N개의최소공배수
 12. PG_level2_JadenCase문자열만들기
 13. PG_level2_2017팁스타운_짝지어제거하기
-14. PG_level3_2xn타일링
+14. PG_level2_2017팁스타운_예상대진표
+15. PG_level3_2xn타일링
 
 ### < 2017 Kakao 코딩테스트 >
 1. PG_level2_2017카카오_단체사진찍기
